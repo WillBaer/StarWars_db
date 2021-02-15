@@ -147,7 +147,7 @@ INSERT INTO base.people(name,height,mass,hair_color,skin_color,eye_color,birth_y
 ('Sly Moore','178','48','none','pale','white',null,'female',60,'2014-12-20 20:18:37.619000Z','2014-12-20 21:17:50.496000Z','https://swapi.co/api/people/82/',82),
 ('Tion Medon','206','80','none','grey','black',null,'male',12,'2014-12-20 20:35:04.260000Z','2014-12-20 21:17:50.498000Z','https://swapi.co/api/people/83/',83),
 ('Finn',null,null,'black','dark','dark',null,'male',28,'2015-04-17 06:52:40.793621Z','2015-04-17 06:52:40.793674Z','https://swapi.co/api/people/84/',84),
-('Rey',null,null,'brown','light','hazel',null,'female',28,'2015-04-17 06:54:01.495077Z','2015-04-17 06:54:01.495128Z','https://swapi.co/api/people/85/',85),
+('Rey Skywalker',null,null,'brown','light','hazel',null,'female',28,'2015-04-17 06:54:01.495077Z','2015-04-17 06:54:01.495128Z','https://swapi.co/api/people/85/',85),
 ('Poe Dameron',null,null,'brown','light','brown',null,'male',28,'2015-04-17 06:55:21.622786Z','2015-04-17 06:55:21.622835Z','https://swapi.co/api/people/86/',86),
 ('BB8',null,null,'none','none','black',null,'none',28,'2015-04-17 06:57:38.061346Z','2015-04-17 06:57:38.061453Z','https://swapi.co/api/people/87/',87),
 ('Captain Phasma',null,null,null,null,null,null,'female',28,'2015-10-13 10:35:39.229823Z','2015-10-13 10:35:39.229894Z','https://swapi.co/api/people/88/',88),
