@@ -84,7 +84,7 @@ INSERT INTO base.people(name,height,mass,hair_color,skin_color,eye_color,birth_y
 ('Jek Tono Porkins','180','110','brown','fair','blue',null,'male',26,19),
 ('Yoda','66','17','white','green','brown','896BBY','male',00,20),
 ('Palpatine','170','75','grey','pale','yellow','82BBY','male',8,21),
-('Boba Fett','183','78.2','black','fair','brown','31.5BBY','male',10,22),
+('Boba Fett','183','79','black','tan','brown','31.5BBY','male',10,22),
 ('IG-88','200','140','none','metal','red','15BBY','none',28,23),
 ('Bossk','190','113','none','green','red','53BBY','male',29,24),
 ('Lando Calrissian','177','79','black','dark','brown','31BBY','male',6,25),
